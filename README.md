@@ -5,7 +5,7 @@ Naghmaty App is a Flutter Application of Sounds Mobile
 ![](https://img.shields.io/badge/APP-Flutter%20%2B1-brightgreen)
 ![](https://img.shields.io/badge/Naghmaty-APP%20-blue)
 
-<img width=250 src="https://i.ibb.co/Bj70HHm/main-Screen.png">
+<img width=350 src="https://i.ibb.co/Bj70HHm/main-Screen.png">
 
 # INSTALL
 ```bash
